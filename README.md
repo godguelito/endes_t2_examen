@@ -1,2 +1,2 @@
 # endes_t2_examen
-Mi IDE favorito es Eclipse.
+Mi IDE favorito es Eclipse
